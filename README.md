@@ -1,6 +1,6 @@
 # Enum Plus
 
-Add enumeration to your ruby classes
+_Add enumeration to your ruby classes_
 
 ## Usage
 
