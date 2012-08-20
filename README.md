@@ -64,4 +64,4 @@ p cameron.gender_caption
 
 ## Licence
 
-Released under the MIT License. See the LICENSE file for further details.
+Released under the MIT License. See the [LICENSE](https://github.com/caedes/enum_plus/blob/master/LICENSE.md) file for further details.
