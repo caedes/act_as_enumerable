@@ -1,11 +1,10 @@
-# Enum Plus
+# Enum Plus [![Build Status](https://secure.travis-ci.org/caedes/enum_plus.png?branch=master)](http://travis-ci.org/caedes/enum_plus)
 
 _Add enumeration to your ruby classes_
 
 ## Usage
 
 ```ruby
-
 class Person
   attr_accessor :gender
 
@@ -42,6 +41,14 @@ p cameron.female?
 p cameron.gender_caption
 #=> 'Female'
 ```
+
+## Contributing
+
+1. Fork repository
+2. Create a branch following a [successfull branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+3. Write your feature/fix
+4. Write tests
+5. Pull request
 
 ## Licence
 
