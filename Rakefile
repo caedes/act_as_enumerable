@@ -15,3 +15,13 @@ end
 
 desc 'Run tests'
 task default: :test
+
+desc 'Build gem packages'
+task :build do
+  `gem build enum_plus.gemspec`
+end
+
+desc 'Push gem packages'
+task :push => :build do
+  `gem push enum_plus-*.gem`
+end
