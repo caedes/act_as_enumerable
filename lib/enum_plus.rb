@@ -16,6 +16,7 @@ class Object
   def self.enum name, enumeration
     name = name.to_s
     class_eval "
+      attr_accessor :#{name}
       def self.#{name}_values
         #{enumeration}
       end
@@ -45,9 +46,9 @@ class Object
         end
       end
       def #{name}_caption
-        humanize_#{name} self.#{name}
+        self.#{name}.nil? ? self.#{name} : humanize_#{name}(self.#{name})
       end"
 
-    validates_inclusion_of name.to_sym, { allow_nil: true, in: enumeration } if self.ancestors.include? 'ActiveRecord::Base'
+    # validates_inclusion_of name.to_sym, { allow_nil: true, in: enumeration } if self.ancestors.include? 'ActiveRecord::Base'
   end
 end
