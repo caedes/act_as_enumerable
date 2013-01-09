@@ -3,6 +3,9 @@ begin; require 'turn/autorun'; rescue LoadError; end
 require 'enum_plus'
 require 'shoulda'
 
+require 'coveralls'
+Coveralls.wear!
+
 class EnumPlusTest < Test::Unit::TestCase
 
   context 'when defining a new object' do
