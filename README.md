@@ -1,4 +1,6 @@
-# Enum Plus [![Build Status](https://secure.travis-ci.org/caedes/enum_plus.png?branch=master)](http://travis-ci.org/caedes/enum_plus)
+# Enum Plus
+
+[![Build Status](https://secure.travis-ci.org/caedes/enum_plus.png?branch=master)](http://travis-ci.org/caedes/enum_plus) [![Dependency Status](https://gemnasium.com/caedes/enum_plus.png)](https://gemnasium.com/caedes/enum_plus)
 
 _Add enumeration to your ruby classes_
 
