@@ -1,6 +1,6 @@
 # Enum Plus
 
-[![Build Status][travis-img]][travis-url] [![Coveralls][coveralls-img]][coveralls-url] [![Dependency Status][gemnasium-img]][gemnasium-url] [![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/caedes/enum_plus) [![Gem Version](https://badge.fury.io/rb/enum_plus.png)](http://badge.fury.io/rb/enum_plus)
+[![Build Status][travis-img]][travis-url] [![Coveralls][coveralls-img]][coveralls-url] [![Dependency Status][gemnasium-img]][gemnasium-url] [![Code Climate][codeclimate-img]][codeclimate-url] [![Gem Version](https://badge.fury.io/rb/enum_plus.png)](http://badge.fury.io/rb/enum_plus)
 
 _Add enumeration to your ruby classes_
 
@@ -74,3 +74,5 @@ Released under the MIT License. See the [LICENSE](https://github.com/caedes/enum
 [coveralls-url]: https://coveralls.io/r/caedes/enum_plus
 [gemnasium-img]: https://gemnasium.com/caedes/enum_plus.png
 [gemnasium-url]: https://gemnasium.com/caedes/enum_plus
+[codeclimate-img]: https://codeclimate.com/badge.png
+[codeclimate-url]: https://codeclimate.com/github/caedes/enum_plus
