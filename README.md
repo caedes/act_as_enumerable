@@ -1,6 +1,6 @@
 # Enum Plus
 
-[![Build Status][travis-img]][travis-url] [![Coveralls](https://coveralls.io/repos/caedes/enum_plus/badge.png?branch=master)](https://coveralls.io/r/caedes/enum_plus) [![Dependency Status](https://gemnasium.com/caedes/enum_plus.png)](https://gemnasium.com/caedes/enum_plus) [![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/caedes/enum_plus) [![Gem Version](https://badge.fury.io/rb/enum_plus.png)](http://badge.fury.io/rb/enum_plus)
+[![Build Status][travis-img]][travis-url] [![Coveralls][coveralls-img]][coveralls-url] [![Dependency Status](https://gemnasium.com/caedes/enum_plus.png)](https://gemnasium.com/caedes/enum_plus) [![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/caedes/enum_plus) [![Gem Version](https://badge.fury.io/rb/enum_plus.png)](http://badge.fury.io/rb/enum_plus)
 
 _Add enumeration to your ruby classes_
 
@@ -70,3 +70,5 @@ Released under the MIT License. See the [LICENSE](https://github.com/caedes/enum
 
 [travis-img]: https://secure.travis-ci.org/caedes/enum_plus.png?branch=master
 [travis-url]: http://travis-ci.org/caedes/enum_plus
+[coveralls-img]: https://coveralls.io/repos/caedes/enum_plus/badge.png?branch=master
+[coveralls-url]: https://coveralls.io/r/caedes/enum_plus
