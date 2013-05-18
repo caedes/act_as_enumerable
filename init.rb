@@ -1,1 +1,1 @@
-require 'enum_plus'
+require 'act_as_enumerable'

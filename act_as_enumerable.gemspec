@@ -1,11 +1,11 @@
-require File.expand_path('../lib/enum_plus/version', __FILE__)
+require File.expand_path('../lib/act_as_enumerable/version', __FILE__)
 
 Gem::Specification.new do |s|
-  s.name        = 'enum_plus'
-  s.version     = EnumPlus::VERSION
+  s.name        = 'act_as_enumerable'
+  s.version     = ActAsEnumerable::VERSION
   s.authors     = ['caedes']
   s.email       = ['laurentromain@gmail.com']
-  s.homepage    = 'https://github.com/caedes/enum_plus'
+  s.homepage    = 'https://github.com/caedes/act_as_enumerable'
   s.summary     = 'Add enumeration to your ruby classes'
   s.description = s.summary
 

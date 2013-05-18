@@ -1,6 +1,6 @@
 require 'test/unit'
 begin; require 'turn/autorun'; rescue LoadError; end
-require 'enum_plus'
+require 'act_as_enumerable'
 require 'shoulda'
 
 require 'coveralls'

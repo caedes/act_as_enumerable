@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    enum_plus (0.3.4)
+    act_as_enumerable (0.1.0)
 
 GEM
   remote: http://rubygems.org/
@@ -49,8 +49,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  act_as_enumerable!
   coveralls
-  enum_plus!
   minitest (~> 4.4.0)
   rake (~> 10.0.3)
   shoulda (~> 3.3.2)

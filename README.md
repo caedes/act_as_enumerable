@@ -1,4 +1,4 @@
-# Enum Plus
+# ActAsEnumerable
 
 [![Build Status][travis-img]][travis-url] [![Coveralls][coveralls-img]][coveralls-url] [![Dependency Status][gemnasium-img]][gemnasium-url] [![Code Climate][codeclimate-img]][codeclimate-url] [![Gem Version][gemversion-img]][gemversion-url]
 
@@ -7,13 +7,13 @@ _Add enumeration to your ruby classes_
 ## Installation
 
 ```shell
-gem install enum_plus
+gem install act_as_enumerable
 ```
 
 Or in your Gemfile:
 
 ```ruby
-gem 'enum_plus'
+gem 'act_as_enumerable'
 ```
 
 ## Usage
@@ -66,15 +66,15 @@ p cameron.gender_caption
 
 ## Licence
 
-Released under the MIT License. See the [LICENSE](https://github.com/caedes/enum_plus/blob/master/LICENSE.md) file for further details.
+Released under the MIT License. See the [LICENSE](https://github.com/caedes/act_as_enumerable/blob/master/LICENSE.md) file for further details.
 
-[travis-img]: https://secure.travis-ci.org/caedes/enum_plus.png?branch=master
-[travis-url]: http://travis-ci.org/caedes/enum_plus
-[coveralls-img]: https://coveralls.io/repos/caedes/enum_plus/badge.png?branch=master
-[coveralls-url]: https://coveralls.io/r/caedes/enum_plus
-[gemnasium-img]: https://gemnasium.com/caedes/enum_plus.png
-[gemnasium-url]: https://gemnasium.com/caedes/enum_plus
+[travis-img]: https://secure.travis-ci.org/caedes/act_as_enumerable.png?branch=master
+[travis-url]: http://travis-ci.org/caedes/act_as_enumerable
+[coveralls-img]: https://coveralls.io/repos/caedes/act_as_enumerable/badge.png?branch=master
+[coveralls-url]: https://coveralls.io/r/caedes/act_as_enumerable
+[gemnasium-img]: https://gemnasium.com/caedes/act_as_enumerable.png
+[gemnasium-url]: https://gemnasium.com/caedes/act_as_enumerable
 [codeclimate-img]: https://codeclimate.com/badge.png
-[codeclimate-url]: https://codeclimate.com/github/caedes/enum_plus
-[gemversion-img]: https://badge.fury.io/rb/enum_plus.png
-[gemversion-url]: http://badge.fury.io/rb/enum_plus
+[codeclimate-url]: https://codeclimate.com/github/caedes/act_as_enumerable
+[gemversion-img]: https://badge.fury.io/rb/act_as_enumerable.png
+[gemversion-url]: http://badge.fury.io/rb/act_as_enumerable

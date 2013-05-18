@@ -1,4 +1,4 @@
-require 'enum_plus/version'
+require 'act_as_enumerable/version'
 
 unless String.methods.include? 'underscore'
   class String
