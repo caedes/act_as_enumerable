@@ -1,5 +1,4 @@
 require 'test/unit'
-begin; require 'turn/autorun'; rescue LoadError; end
 require 'act_as_enumerable'
 require 'shoulda'
 
