@@ -1,6 +1,10 @@
 # ActAsEnumerable
 
-[![Build Status][travis-img]][travis-url] [![Coveralls][coveralls-img]][coveralls-url] [![Dependency Status][gemnasium-img]][gemnasium-url] [![Code Climate][codeclimate-img]][codeclimate-url] [![Gem Version][gemversion-img]][gemversion-url]
+[![Build Status][travis-img]][travis-url]
+[![Coveralls][coveralls-img]][coveralls-url]
+[![Dependency Status][gemnasium-img]][gemnasium-url]
+[![Code Climate][codeclimate-img]][codeclimate-url]
+[![Gem Version][gemversion-img]][gemversion-url]
 
 _Add enumeration to your ruby classes_
 
@@ -74,7 +78,7 @@ Released under the MIT License. See the [LICENSE](https://github.com/caedes/act_
 [coveralls-url]: https://coveralls.io/r/caedes/act_as_enumerable
 [gemnasium-img]: https://gemnasium.com/caedes/act_as_enumerable.png
 [gemnasium-url]: https://gemnasium.com/caedes/act_as_enumerable
-[codeclimate-img]: https://codeclimate.com/badge.png
+[codeclimate-img]: https://codeclimate.com/github/caedes/act_as_enumerable.png
 [codeclimate-url]: https://codeclimate.com/github/caedes/act_as_enumerable
 [gemversion-img]: https://badge.fury.io/rb/act_as_enumerable.png
 [gemversion-url]: http://badge.fury.io/rb/act_as_enumerable
